@@ -370,7 +370,7 @@ void loop() {
 
 
           /*******************************************
-            fim do bloco do rfid de origem
+            fim do bloco do rfid destino
           *******************************************/
         }
       }
