@@ -27,7 +27,7 @@ Este projeto utiliza um Arduino Uno para construir uma torre de Hanoi que incorp
 *   Display LCD 16x2 com Módulo I2C
 *   Outros componentes eletrônicos básicos (resistores, cabos jumper, etc.)
 
-![Diagrama do Circuito](document/image/diagrama_de_ligação.png)
+![Diagrama do Circuito](document/diagrama_de_ligação.png)
 
 3\. Bibliotecas Utilizadas
 --------------------------
@@ -46,4 +46,4 @@ Para integrar a tecnologia RFID ao projeto, uma abordagem criativa foi adotada: 
 Após carregar o código para o Arduino, a lógica implementada para a inicialização do jogo considera que os três discos estão presentes na torre origem e a retirada do disco menor da pilha inicia a cronometro, mas o primeiro movimento só é incrementado após o disco ser inserido em alguma outra torre.
 O jogo termina se o jogador conseguir empilhar os discos na torre destino, ou se cometer algum erro (como por exemplo empilhar um disco maior sobre um menor, nesse caso o jogo reiniciará).
 
-![Diagrama de Funcionamento](document/image/diagrama_de_funcionamento.png)
+![Diagrama de Funcionamento](document/diagrama_de_funcionamento.png)
