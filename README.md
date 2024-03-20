@@ -27,7 +27,7 @@ Este projeto utiliza um Arduino Uno para construir uma torre de Hanoi que incorp
 *   Display LCD 16x2 com Módulo I2C
 *   Outros componentes eletrônicos básicos (resistores, cabos jumper, etc.)
 
-![Diagrama do Circuito](document/iamge/diagrama_de_ligação.png)
+![Diagrama do Circuito](document/image/diagrama_de_ligação.png)
 
 3\. Bibliotecas Utilizadas
 --------------------------
