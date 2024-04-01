@@ -39,7 +39,7 @@ O projeto faz uso das seguintes bibliotecas, que podem ser necessárias para ser
 *   `Wire.h`: Biblioteca para comunicação I2C, incluída por padrão no Arduino IDE.
 *   `LiquidCrystal_I2C.h`: Biblioteca para controle do Display LCD com módulo I2C.
 
-6\. Funcionamento
+4\. Funcionamento
 -----------------
 
 Para integrar a tecnologia RFID ao projeto, uma abordagem criativa foi adotada: a torre e os discos foram projetados em 3D e produzidos utilizando impressão 3D. Adesivos contendo as tags RFID foram estrategicamente colocados nos discos. Esses adesivos possuem os códigos de comunicação necessários para permitir que o leitor RFID os leia corretamente.
