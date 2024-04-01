@@ -8,7 +8,7 @@ Este projeto utiliza um Arduino Uno para construir uma torre de Hanoi que incorp
 
 1.  **Arduino Uno**: O Arduino Uno foi escolhido devido à sua facilidade de uso e versatilidade na integração com diferentes componentes. Ele atende aos requisitos de desempenho do projeto e é capaz de estabelecer conexões com diversos protocolos de comunicação.
     
-2.  **Tecnologia RFID**: A tecnologia RFID é amplamente utilizada em diversas aplicações, desde controle de estoque até sistemas de pagamento sem contato. Neste projeto, é empregada para identificação e armazenamento de informações por meio de ondas de radiofrequência.
+2.  **RFID**: A tecnologia RFID é amplamente utilizada em diversas aplicações, desde controle de estoque até sistemas de pagamento sem contato. Neste projeto, é empregada para identificação e armazenamento de informações por meio de ondas de radiofrequência.
     
 3.  **Módulo Buzzer**: O módulo buzzer é utilizado para fornecer feedback sonoro ou alertas aos usuários. Ele simplifica a geração de som em comparação com um buzzer passivo e é comumente empregado em projetos de prototipagem e eletrônica.
     
