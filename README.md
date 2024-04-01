@@ -43,7 +43,7 @@ O projeto faz uso das seguintes bibliotecas, que podem ser necessárias para ser
 -----------------
 
 Para integrar a tecnologia RFID ao projeto, uma abordagem criativa foi adotada: a torre e os discos foram projetados em 3D e produzidos utilizando impressão 3D. Adesivos contendo as tags RFID foram estrategicamente colocados nos discos. Esses adesivos possuem os códigos de comunicação necessários para permitir que o leitor RFID os leia corretamente.
-![Torre 3D](document/torre.jpeg)
+![Torre 3D](document/img1.jpeg)
 
 Após carregar o código para o Arduino, a lógica implementada para a inicialização do jogo considera que os três discos estão presentes na torre origem e a retirada do disco menor da pilha inicia a cronometro, mas o primeiro movimento só é incrementado após o disco ser inserido em alguma outra torre.
 O jogo termina se o jogador conseguir empilhar os discos na torre destino, ou se cometer algum erro (como por exemplo empilhar um disco maior sobre um menor, nesse caso o jogo reiniciará).
